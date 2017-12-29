@@ -1,2 +1,2 @@
 cd /home/yanlei/WUST_Supplicant_For_Linux/rjsupplicant
-./rjsupplicant.sh -u 0401020 -p 19771207 -d 1
+./rjsupplicant.sh -u 账号 -p 密码 -d 1 -s 校外
